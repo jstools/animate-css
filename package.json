@@ -1,0 +1,24 @@
+{
+  "name": "animate-css",
+  "version": "1.0.0",
+  "description": "css animations build with js on the fly",
+  "main": "animate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstools/animate-css.git"
+  },
+  "keywords": [
+    "animate",
+    "animation",
+    "css"
+  ],
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstools/animate-css/issues"
+  },
+  "homepage": "https://github.com/jstools/animate-css#readme"
+}
